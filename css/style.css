@@ -1,0 +1,251 @@
+body {
+font-family: 'Fira Sans', sans-serif;
+}
+
+.container-fluid {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.logo {	
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+.container-fluid {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.nav {	
+	background-color: #1c4489;
+	border: 0;
+	color:#fff;
+}
+.navbar .nav {
+	width: 100%;
+}
+.navbar .nav li a {
+	color: #fff;	
+	font-size: 17px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+
+.kef-navbar {
+	background-color: #f8f8f8;
+	border-color: #e7e7e7;
+	position: relative;
+    height: 50px;
+    border-bottom: 0;
+}
+
+.navbar-collapse {
+    padding-right: 0;
+}
+
+.intro-text {
+	padding-top: 36px;
+	padding-bottom: 286px;
+}
+
+.intro {		
+	color: #f3f7f6;	
+	font-size: 45px;
+	line-height: 77px;	
+	background-image: url(../img/background.png);
+	background-size: cover;	
+	text-align: center;
+	}
+
+.intro .intro-lead-in {
+	padding-top: 46px;
+	font-size: 45px;
+	line-height: 77px;
+	text-transform: uppercase;
+}
+
+.intro .intro-heading {
+	font-size: 25px;
+	font-weight: 400;
+}
+
+.intro .learn-more {
+	width:111px;
+	height: 80px;
+	font-size: 17px;
+	background-color: transparent;
+	border: 2px solid #fff;
+	text-transform: uppercase;
+	line-height: 20px;
+}
+.stats {		
+	background-color: #1c4489;
+	color: #fff;
+}
+
+.stats p {
+	font-size: 60px;	
+}
+
+.stats h2 {
+	font-size: 25px;
+	text-transform: uppercase; 
+}
+
+.stats-wrapper {
+	padding-top: 90px;
+	padding-bottom: 99px;
+}
+
+.text-muted {	
+	margin-right: 0;
+	display: inline-block;
+}
+
+.section-heading {
+	font-size: 25px;
+	text-transform: uppercase; 
+}
+
+.section-heading p {
+	font-size: 60px;
+}
+
+.benefits {
+	background-size: cover;
+}
+
+.benefits .benefits-wrapper {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.benefits .benefit-heading {
+	padding-top: 60px;
+	padding-bottom: 70px;
+	margin: 0;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 38px;
+	text-transform: uppercase;
+	color: #1e4388;
+}
+
+.testimonials {
+	background-image: url(../img/background2.png);
+	background-size: cover;
+	color: white;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	padding: 0 0 20px 0;
+}
+
+.textimonials-header {
+	padding-top: 46px;
+	padding-bottom: 59px;
+	font-size: 30px;
+	font-weight: 500;
+	line-height: 38px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.arrows{
+	padding-bottom: 28px;
+}
+
+.testimonials {
+	padding: 67px;
+}
+
+.testimonials-text {
+	color:#fff;	
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	margin: 0 auto;
+} 
+
+.testimonials-person {
+	color:#fff;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 18px;
+	padding-top: 22px;
+}
+
+.request {	
+	background-color: #115fd4;
+}
+
+.request-header {
+	font-size: 30px;
+	font-weight: 500;
+	line-height: 169px;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+.request-header p {
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 20px;
+	text-transform: uppercase;	
+}
+
+.request form {
+	padding-bottom: 64px;	
+}
+
+.input-group {
+	display: inline-block;
+	
+}
+
+.input-group label {
+	font-size: 18px;
+	font-weight: 500;
+	font-weight: bold;
+	text-transform: uppercase;
+	color:#fff;
+	padding-left: 19px;
+}
+
+.request button {
+	width: 107px;
+	height: 54px;
+	background-color: #f3f7f6;
+	border: 2px solid #f3f7f6;
+	color: #115fd4;
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 20px;
+	text-transform: uppercase;
+}
+
+.submit-button {
+	margin-left: 33px;
+}
+
+
+footer {	
+	background-color: black;	
+	color: #fff;
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+footer img {
+	margin-top: 36px;
+}
+
+
+footer p {
+	padding-top: 20px;
+}
+
+
+
